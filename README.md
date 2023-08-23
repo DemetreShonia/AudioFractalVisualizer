@@ -11,6 +11,6 @@ Mandelbulb (It is animating in this frame):
 
 You can see video of MandelBulb here:
 
-https://github.com/DemetreShonia/AudioFractalVisualizer/assets/75935164/1e5bfdc0-ff63-4c1f-a7ac-fd8f11e5524c
+https://github.com/DemetreShonia/AudioFractalVisualizer/assets/75935164/7e22edad-b82c-4d5f-b197-a46224eb2cae
 
 Note: The original project was damaged but fortunately I have the latest build which you can download and test! This repository only has mandelbulb in it. 
