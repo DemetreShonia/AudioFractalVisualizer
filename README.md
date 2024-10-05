@@ -18,6 +18,8 @@ You can see video of MandelBulb here:
 
 https://github.com/DemetreShonia/AudioFractalVisualizer/assets/75935164/7e22edad-b82c-4d5f-b197-a46224eb2cae
 
-If you are interested, how it reacts to audio, check this video on my LinkedIn: https://shorturl.at/epI27
+If you are interested, how it reacts to audio, check this video on my LinkedIn: [Linkedin Video](https://www.linkedin.com/posts/demetre-shonia_visualeffects-shaders-mandelbulb-activity-6991660569422381056-u7Vg?utm_source=share&utm_medium=member_desktop)
+
+
 
 Note: The original project was damaged but fortunately I have the latest build which you can download and test! This repository only has mandelbulb in it. 
